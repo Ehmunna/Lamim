@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration:none;
+}
+p{
+  text-align: center
+}
+.con{padding: 20px;
+  margin: 20px auto;
+  width: 90%;
+  height: 200px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  p{
+    font-size:25px
+  }
+
+a{
+  display: block;
+  font-size:20px;
+  color:  black;
+  padding:10px;
+  text-transform: uppercase;
+}
